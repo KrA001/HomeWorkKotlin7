@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWorkKotlin7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="leaves">Leaves</string>
+    <string name="add">add</string>
+    <string name="trunk">trunk</string>
+    <string name="image">image</string>
+    <string name="siting">siting</string>
+</resources>
